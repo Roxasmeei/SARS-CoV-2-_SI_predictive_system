@@ -1,0 +1,74 @@
+ID,Compound,Test Type,IC50,EC50,Clinical Trials,Notes
+68,Camostat mesylate,In vitro (pseudovirus),~1,≥500,"Phase 2a/4 (NCT04321096, NCT04338906)",10
+69,Nafamostat,In vitro,22.50,≥100,NCT04352400,19
+70,MI-432,In vitro,≤10,≥50,Preclinical,180
+71,MI-1900,In vitro,≤50,≥50,Preclinical,180
+72,Amantadine,In vitro,≥100,≥100,Preclinical,187
+73,Chlorpromazine,In vitro,≥100,≥100,Preclinical,187
+74,E64-d,In vitro,~4.487,≥0,Preclinical,187
+75,Chloroquine,In vitro,2.71,273.20,"Several clinical trials (ChiCTR2000029609 et al.)",97
+76,Hydroxychloroquine,In vivo (macaques),4.51,249.50,"Several clinical trials (ChiCTR2000029803, ChiCTR2000029868, ChiCTR2000029898, ChiCTR2000029899, ChiCTR2000029992, ChiCTR2000030054, NCT04315948)",124
+83,Omeprazole,In vitro,17.06,≥40,Preclinical,146
+29,Calpain inhibitors II,In vitro,2.07 ± 0.76,≥100,Preclinical,86
+30,Calpain inhibitors XII,In vitro,0.49 ± 0.18,≥100,Preclinical,86
+87,Leflunomide,In vitro,41.49,879.0,Preclinical,210
+88,Brequinar,In vitro,0.123,231.3,Preclinical,210
+89,S312,In vitro,1.56,158.2,Preclinical,210
+90,S416,In vitro,0.017,178.6,Preclinical,210
+91,ROC-325,In vitro,3.28 ± 0.57,>30,Preclinical,212
+92,Clomipramine,In vitro,13.6 ± 2.96,>30,Preclinical,212
+93,Hycanthone,In vitro,5.79 ± 0.26,14.2,Preclinical,212
+94,Mefloquine,In vitro,3.85 ± 0.24,8.78,Preclinical,212
+95,Dithioerythritol thiosulfonate 16,In vitro,50,≥500,Preclinical,214
+96,VPS34-IN1,In vitro,0.55,≥50,Preclinical,218
+97,PIK-III,In vitro,0.12,≥50,Preclinical,218
+98,Orlistat,In vitro,21.25,≥1000,Preclinical,218
+99,Triacsin C,In vitro,0.04,≥50,Preclinical,218
+100,MI-1851,In vitro,≤10,≥50,Preclinical,180
+101,Decanoyl-RVKR-chloromethylketone (dec-RVKR-cmk),In vitro,0.057,318.2,Preclinical,221
+102,Homoharringtonine,In vitro,2.55,59.75,Preclinical,99
+103,Emetine,In vitro,0.46,56.46,Preclinical,99
+104,2-Deoxy-d-glucose (2-DG),In vitro,9090,–,Preclinical,228
+105,Pladienolide B,In vitro,0.007,–,Preclinical,228
+106,Ribavirin,In vitro,70,–,NCT04356677,228
+107,NMS-873,In vitro,0.025,–,Preclinical,140
+108,Cycloheximide,In vitro,0.17,–,Preclinical,228
+109,Baricitinib,–,–,–,"Phase 2,3,4 (2020-001854-23, 2020-001354-22, NCT04358614)",
+110,Nitazoxanide,In vitro,2.12,>35.53,"Phase 2, 3 (NCT04341493, NCT01056380, NCT04348409)",19
+111,JIB-04,In vitro,0.695,>300,Preclinical,237
+112,Fenofibrate,In vitro,20,>100,Preclinical,187
+114,Clemizole hydrochloride,In vitro,23.94,≥40,Preclinical,146
+115,Benztropine mesylate,In vitro,17.79,>50,Preclinical,244
+116,Fluphenazine dihydrochloride,In vitro,8.98,20.02,Preclinical,244
+117,Amodiaquine hydrochloride,In vitro,5.64,>38.63,Preclinical,244
+118,Amodiaquine hydrochloride dihydrate,In vitro,4.94,34.42,Preclinical,244
+119,Thiethylperazine maleate,In vitro,8.02,18.37,Preclinical,244
+120,Triparanol,In vitro,6.41,21.21,Preclinical,244
+121,Terconazole,In vitro,16.14,41.46,Preclinical,244
+122,Fluspirilene,In vitro,5.32,30.33,Preclinical,244
+123,Clomipramine hydrochloride,In vitro,7.59,>29.68,Preclinical,244
+124,Promethazine hydrochloride,In vitro,10.44,>42.59,Preclinical,244
+125,Toremifene citrate,In vitro,11.3,20.51,Preclinical,244
+126,Tamoxifen citrate,In vitro,8.98,37.96,Preclinical,244
+127,Imatinib mesylate,In vitro,5.32,>30.86,Preclinical,244
+128,Bruceine A,In vitro,0.011,31.4,Preclinical,246
+129,Bufalin,In vitro,0.018,>40,Preclinical,246
+130,Cinobufagin,In vitro,0.018,>40,Preclinical,246
+131,Bufotaline,In vitro,0.0259,>40,Preclinical,246
+132,Periplocoside,In vitro,0.0657,>40,Preclinical,246
+133,Brusatol,In vitro,0.0492,19,Preclinical,246
+134,Digoxin,In vitro,0.1541,>40,Preclinical,246
+135,Veratridine,In vitro,2.376,>100,Preclinical,246
+136,Oridonin,In vitro,1.462,>40,Preclinical,246
+137,Isoalantolactone,In vitro,1.483,>40,Preclinical,246
+138,Isoliensinine,In vitro,1.615,40,Preclinical,246
+139,Alantolactone,In vitro,1.724,36.7,Preclinical,246
+140,Cryptotanshinone,In vitro,5.024,>100,Preclinical,246
+141,Dehydrocostus lactone,In vitro,2.322,36.2,Preclinical,246
+142,Momordinic,In vitro,3.529,>40,Preclinical,246
+143,Liensinine,In vitro,2.537,25.4,Preclinical,246
+144,Dehydrodiisoeugenol,In vitro,10.29,≥100,Preclinical,246
+145,Cornuside,In vitro,5.262,≥40,Preclinical,246
+146,Roburicacid,In vitro,5.267,≥40,Preclinical,246
+147,Coniferylaldehyde,In vitro,11.03,≥40,Preclinical,246
+148,Panduratin A,In vitro,0.81,14.71,Preclinical,247

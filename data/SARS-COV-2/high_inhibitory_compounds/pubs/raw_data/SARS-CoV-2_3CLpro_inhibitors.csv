@@ -1,0 +1,40 @@
+compound name,3CLpro inhibition IC50(μM),max resp (%),SARS-CoV-2 CPE EC50(μM),efficacy (%),Vero E6 cytotoxicity CC50(μM),cytotoxicity efficacy (%),stage of compound,SI_μM
+walrycin B,0.26,86.6,3.55,51.43,4.25,99.67,research,
+hydroxocobalamin,3.29,89.56,,0.0,,0.0,US FDA approved,
+suramin sodium,6.5,99.49,,0.0,,0.0,clinical,
+Z-DEVD-FMK,6.81,90.48,,0.0,,0.0,research,
+LLL-12,9.84,82.98,,0.0,1.77,100.0,research,
+Z-FA-FMK,11.39,88.74,0.13,104.84,,0.0,research,
+DA-3003–1,2.63,70.64,4.47,53.77,7.74,112.0,research,
+CAY-10581,9.2,60.62,,0.0,,0.0,research,
+fascaplysin,9.96,63.44,,0.0,1.26,99.28,research,
+MG-115,12.7,74.89,0.023,72.01,1.13,115.48,research,
+beta-lapachone,13.33,60.88,,0.0,12.59,15.06,clinical,
+sepantronium bromide,13.6,61.79,,0.0,7.94,20.12,clinical,
+NSC 95397,17.93,98.7,,0.0,14.14,111.33,preclinical,
+vitamin B12,18.02,71.06,,0.0,,0.0,US FDA approved,
+4E1RCat,18.28,76.33,,0.0,,0.0,research,
+TBB,20.49,77.96,14.13,28.29,8.91,80.93,research,
+GW-0742,22.27,126.23,,0.0,,0.0,research,
+agaric acid,23.54,110.16,,0.0,,0.0,HealthCanada approved,
+oritavancin (diphosphate),24.15,93.29,3.16,23.89,14.13,23.51,clinical,
+MK 0893,24.33,95.77,,0.0,12.59,80.04,clinical,
+SU 16f,24.97,87.95,12.59,28.86,7.94,23.57,research,
+penta-O-galloyl-β-d-glucose hydrate,27.77,109.94,,0.0,11.22,80.28,research,
+SP 100030,28.85,64.84,,0.0,,0.0,research,
+Azithromycine,,,,,,,,19
+Spiramycin,,,,,,,,5
+Omeprazole,,,,,,,,2.35
+Oxprenolol hydrochloride,,,,,,,,2
+Hydroxy-chloroquine,,,,,,,,10
+Clemizole hydrochloride,,,,,,,,1.7
+Alprostadil,,,,,,,,7.4
+Dolutegravir,,,,,,,,1.8
+Sulfadoxine,,,,,,,,1.13
+Opipramol dihydrochloride,,,,,,,,7.9
+Quinidine hydrochloride,,,,,,,,7.8
+Vonoprazan,,,,,,,,1
+Exemestane,,,,,,,,5.3
+Dyclonine hydrochloride,,,,,,,,4
+Spiperone,,,,,,,,16
+Arbidol,,,,,,,,3.7
